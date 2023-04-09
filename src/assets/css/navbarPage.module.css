@@ -1,0 +1,12 @@
+.navbar {
+    border-bottom: 1px solid #fcfcff;
+    min-height: 2rem;
+    padding: 1rem 1rem;
+    background-color: #0f1730;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(9, 247, 187, 0.15);
+}
+
+.navbar-search {
+    display: flex;
+    align-items: center;
+}
